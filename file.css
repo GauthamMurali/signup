@@ -1,0 +1,32 @@
+
+
+
+
+body{
+    font-family:'Roboto';
+    background: linear-gradient(90deg, rgb(21, 20, 20) 0%,rgb(21, 20, 20) 50%);
+    
+}
+.inner-row{
+    height: 100vh;
+}
+.primaryBg{
+    background: rgb(21, 20, 20) ;
+}
+.primaryColour{
+    color: rgb(0, 0, 0) ;
+}
+.form-box {
+    background: #ffff;
+    box-shadow: 0 0 20px 0 rgba(0,0,0,0.2), 0 5px 5px 0 rgba(0,0,0,0.24);
+}
+.registration-form {
+    display: none;
+}
+.both-form {
+    border-radius: 2%;
+}
+
+label{
+    
+}
